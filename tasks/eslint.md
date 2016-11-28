@@ -6,6 +6,11 @@
   https://github.com/zulip/zulip-gci/blob/master/README.md for instructions
   on how to set one up.
 
+* If this is your first task, you may be interested in
+  [Learn how to create a GitHub Pull Request](https://codein.withgoogle.com/tasks/6541581402243072/)
+  and/or
+  [Intro to Zulip server development](https://codein.withgoogle.com/tasks/4799263762546688/).
+
 ## Background
 One can use special programs, called linters, to check whether code matches a
 particular coding style; basically, a linter program reads the code of another
